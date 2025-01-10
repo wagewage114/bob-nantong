@@ -11,7 +11,7 @@ const App = () => {
     {
       id: 1,
       title: "91",
-      description: "专业的技术内容分享平台，汇集各类资源和教程。"
+      description: "专业的技术内容分享平台，汇集各类编程资源和教程。"
     },
     {
       id: 2,
@@ -39,7 +39,7 @@ const App = () => {
               <div className="space-x-6">
                 <button className="text-gray-600 hover:text-gray-900">首页</button>
                 <button className="text-gray-600 hover:text-gray-900">关于</button>
-                <button className="text-gray-600 hover:text-gray-900">联系男模</button>
+                <button className="text-gray-600 hover:text-gray-900">联系我们</button>
               </div>
             </div>
           </nav>
@@ -47,9 +47,9 @@ const App = () => {
 
         <main className="container mx-auto px-6 py-8">
           <section className="mb-12">
-            <h1 className="text-4xl font-bold text-gray-900 mb-4">欢迎来到最強のペニスを持つ男的</h1>
+            <h1 className="text-4xl font-bold text-gray-900 mb-4">欢迎来到Bob的网站</h1>
             <p className="text-lg text-gray-700">
-             Zibo Absolute Fierce Tiger。
+              这是一个带有优雅渐出动画效果的示例网站。当页面加载时，内容会平滑地显示出来。
             </p>
           </section>
 
